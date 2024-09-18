@@ -1,8 +1,4 @@
 
-Berikut adalah contoh README yang dapat Anda gunakan untuk dokumentasi proyek pemindaian file menggunakan ClamAV dan Boost. Anda dapat menyesuaikan informasi ini sesuai dengan kebutuhan Anda.
-
-### README.md
-
 # Aplikasi Pemindaian File dengan ClamAV
 
 Aplikasi ini adalah server HTTP sederhana yang menggunakan ClamAV untuk memindai file yang diunggah melalui permintaan POST. Aplikasi dibangun menggunakan C++ dan pustaka Boost, dan dikemas dalam kontainer Docker berbasis Alpine.
