@@ -71,6 +71,3 @@ Setelah mengunggah file, Anda akan menerima respons yang menunjukkan hasil pemin
 
 Proyek ini dilisensikan di bawah lisensi MIT. Lihat file LICENSE untuk detail lebih lanjut.
 
----
-
-Dengan README ini, pengguna akan mendapatkan panduan lengkap tentang cara menggunakan aplikasi pemindaian file. Anda dapat menambahkan lebih banyak informasi atau detail jika diperlukan!
